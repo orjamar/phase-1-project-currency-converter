@@ -1,9 +1,10 @@
 {
     "currencies": [
-        { "code": "USD", "name": "United States Dollar", "rate": 1 },
-        { "code": "EUR", "name": "Euro", "rate": 0.84 },
-        { "code": "GBP", "name": "British Pound", "rate": 0.72 },
-        {"code": "JPY", "name": "Japanese Yen", "rate": 109.17 },
-        { "code": "CAD", "name": "Canadian Dollar", "rate": 1.21 }
+      { "code": "USD", "name": "United States Dollar", "rate": 1 },
+      { "code": "EUR", "name": "Euro", "rate": 0.84 },
+      { "code": "GBP", "name": "British Pound", "rate": 0.72 },
+      { "code": "JPY", "name": "Japanese Yen", "rate": 109.17 },
+      { "code": "CAD", "name": "Canadian Dollar", "rate": 1.21 }
     ]
-}
+  }
+  
